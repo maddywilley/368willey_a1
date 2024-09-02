@@ -26,4 +26,4 @@ void count(int input){
                 }
             }
         }
-}
+    }
