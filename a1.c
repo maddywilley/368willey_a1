@@ -4,7 +4,6 @@ void count(int);
 
 int main(){
     int input;
-    printf("enter a value:");
     scanf("%d", &input);
     count(input);
     return 0;
